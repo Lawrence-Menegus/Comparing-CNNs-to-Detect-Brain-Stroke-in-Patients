@@ -1,5 +1,4 @@
 # Brain Stroke Detection Using CNN (Convolutional Neural Networks) with Keras and PyTorch
-<p>Author: Lawrence Menegus</p>
 
 ### Overview
 <p> This project aims to conduct a comprehensive analysis of brain stroke detection using Convolutional Neural Networks (CNN). Two datasets consisting of brain CT images were utilized for training and testing the CNN models. The objective is to accurately classify CT scans as exhibiting signs of a stroke or not, achieving high accuracy in stroke detection based on radiological imaging.</p>
@@ -44,3 +43,7 @@ Precision-Recall curves were plotted to visualize the trade-off between precisio
 
 ### References
 <p> Kaggle Dataset: Brain Stroke CT Image Dataset - afridirahma </p>
+
+
+## Contributor 
+<p>Lawrence Menegus</p>
